@@ -3,8 +3,6 @@
   "version": "0.1.0",
   "license": "MIT",
   "private": false,
-  "homepage": "https://zeshawnahmed.github.io/SolanaTurbo",
-
   "scripts": {
     "dev": "next dev",
     "build": "next build",
